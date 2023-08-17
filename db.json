@@ -43,6 +43,30 @@
         }
       ],
       "transportation": "送迎バス"
+    },
+    {
+      "id": 3,
+      "date": "08/15",
+      "period": {
+        "begin": "10:00",
+        "end": "12:00"
+      },
+      "guest": {
+        "id": 1,
+        "name": "沖縄　太郎"
+      },
+      "text": "",
+      "helper": [
+        {
+          "id": 1,
+          "name": "ヘルパー　花子"
+        },
+        {
+          "id": 2,
+          "name": "ヘルパー　次郎"
+        }
+      ],
+      "transportation": "社用車"
     }
   ]
 }
