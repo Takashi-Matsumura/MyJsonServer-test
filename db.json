@@ -15,11 +15,13 @@
       "helper": [
         {
           "id": 1,
-          "name": "ヘルパー　花子"
+          "name": "ヘルパー　花子",
+          "mark": "花"
         },
         {
           "id": 2,
-          "name": "ヘルパー　次郎"
+          "name": "ヘルパー　次郎",
+          "mark": "次"
         }
       ],
       "transportation": "社用車"
@@ -39,7 +41,8 @@
       "helper": [
         {
           "id": 3,
-          "name": "ヘルパー　三郎"
+          "name": "ヘルパー　三郎",
+          "mark": "三"
         }
       ],
       "transportation": "送迎バス"
@@ -59,11 +62,13 @@
       "helper": [
         {
           "id": 1,
-          "name": "ヘルパー　花子"
+          "name": "ヘルパー　花子",
+          "mark": "花"
         },
         {
           "id": 2,
-          "name": "ヘルパー　次郎"
+          "name": "ヘルパー　次郎",
+          "mark": "次"
         }
       ],
       "transportation": "社用車"
